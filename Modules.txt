@@ -1,0 +1,130 @@
+Date: Wednesday 15 September 
+Hours: 8
+
+What did I do :
+1.Git and github.
+2.Git installation.
+3.Git bash.
+4.Local VCM(Version Control System ).
+5.centralized VCM(Version Control System ).
+6.Git: Three Stage Architecture.
+7.Basic command of git
+  a)git 
+  b)git config --global
+  c)git status
+  d)git init
+  e)git add --a
+  f)git commit -m
+  g)git clone
+  h)git log
+  i)pwd,cd,ls
+  j)git clone
+  
+  Blockers: NO 
+
+What will I do :
+File Status LifeCycle.
+gitignore: Ignoring files in Git.
+functionality of git ls-tree.
+
+Day : Thursday 16	September
+Hours 8	
+
+What did I do
+1.File Status Lifecycle 
+ a) Working Directory.
+ b) Staging Area.
+ c) Git Repository.
+2.Gitignore
+  a) File Ignore.
+  b) Repository Ignore.
+3.Git Command
+    a) git diff.
+    b) git diff --staged.
+    c) git commit -a -m "".
+    d) git rm
+    e) git mv
+    f) git rm --cached
+	g) git log -p,git log -p -3,git log --stat,git log --pretty=short
+	h) git commit --amend
+	i) git restore --staged <file name>
+	j) git checkout --<file name>,gti checkout -f
+4.Working with Remote Repository
+    a) git remote.
+    b) git remote -v.
+    c) git push
+
+ 
+Resources
+https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi	
+
+Blockers: NO
+
+What will I do tomorrow	:
+1) Setting Alias 
+2) Creating & Switching Branches
+3)functionality of git ls-tree.
+
+
+
+Day : Friday 17	September
+Hours 6	
+
+What did I do
+1.Setting Alias and command.
+2.Creating and Switching Branches.
+3.Resolving Merge Conflict.
+4.Git Branch Commands
+5.Branching Workflow In Production.
+6.Pushing Git Branches To Remote Repository
+
+Blockers: NO
+
+What will I do tomorrow	:
+1) Git Practice
+2) Java Fundamental
+
+
+Day : Saturday 18	September
+Hours 4	
+
+Java Fundamentals
+Declarations and Access Controls 
+Declare Classes
+Declare Interfaces
+Declare Class Members
+Constructors, Deconstructors
+Access Modifiers (Public, Private, Protected)
+Initialization Blocks
+
+Blockers: NO
+
+What will I do tomorrow	:
+1) Arrays, Enums
+2)Naming Conventions
+3)OOPs
+  Encapsulation
+  Inheritance
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Ashish Vijaywargiya, Jun 28, 12:12 PM
+A few articles that I liked for Java Coding Best practices, please take a look at it whenever you can:
+
+https://xperti.io/blogs/java-coding-best-practices/
+https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html
+https://rhamedy.medium.com/a-short-summary-of-java-coding-best-practices-31283d0167d3
+https://www.baeldung.com/java-clean-code
+https://www.linkedin.com/pulse/coding-standard-programming-best-practices-java-part-1-david-rios/
+
+
