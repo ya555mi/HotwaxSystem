@@ -110,6 +110,28 @@ What will I do tomorrow	:
   
   
   
+Day : Monday 20	September
+Hours 6
+
+Java Fundamentals
+1)Implementation of Interface
+2)Method Of Interface
+3)Abstract class
+4)Implementation of Constructor
+5)Type Of Constructor
+6)Constructor Chaining
+7)this ,super keyword
+8)Instance block,Static block
+7)Naming Conventions
+
+ Git Repository : https://github.com/ya555mi/HotwaxSystem.git
+ 
+Blockers: NO
+
+What will I do tomorrow	:
+Implementation of Deconstructors
+Arrays, Enums
+  
   
   
   
