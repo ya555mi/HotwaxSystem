@@ -132,7 +132,59 @@ What will I do tomorrow	:
 Implementation of Deconstructors
 Arrays, Enums
   
+ 
+Day : Tuesday 21 September
+Hours 5
+
+1)Implementation of Deconstructors.
+2)Implementation of Array.
+3)Types Of Array.
+4)enum keyword.
+5)OOPs
+   a)Encapsulation.
+   b)Inheritance and Types Of Inheritance.
+   c)Achieve Multiple Inheritance By Using Interface.
+   d)Polymorphism and Types of Polymorphism.
+   c)Overriding/Overloading.
+6)Operators
+   a)Instanceof.
+   b)Conditional.
+   c)Logical.
+   d)Arithmetic.
+7)Control Flow Statements
+   a)For Loop.
+
+Blockers: NO
+
+What will I do tomorrow	:
+1)Control Flow Statements
+2)Exceptions
+
+Day : wednesday 22 September
+Hours 5
+What did I do
+1)Control Flow Statements
+   a)while Loop.
+   b)Do Loop
+   c)Enhanced For Loop
+   d)Switch/case
+   e)Continue/Break
+   f)Labelled/Unlabelled Statements
+2)Exception
+  a)Exception handling
+  b)Try-Catch 
+  c)finally ,throw keyword
+  d)Exception Hierarchy
+  e)Creating a custom Exception
+
+Blockers: NO
+
+What will I do tomorrow	:
+1)Exception in details. 
   
+  
+  
+   
   
   
   

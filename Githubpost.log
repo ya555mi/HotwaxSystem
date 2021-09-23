@@ -1,0 +1,77 @@
+              Github is a life savior for every programmer is't?
+			  
+			  Ruhi:-Few days back i met my friend and he was upset.I asked him why are you upset ?
+                    you can share your problem with me.
+              Ruhan:-Hey Ruhi! I was working on my project from a couple of months but my few files got corrupted and i can't run my project.
+			  Ruhi:-Havn't you made the backup of your project.
+			  Ruhan:-No...
+			  Ruhi:-Why are you not using github.
+			  Ruhan:-Github?
+			  Ruhi:-Git is a distributed version control system that let's you manage and keep track of your source code history.
+			        Github is a cloud-based hosting service that let's you manage git repositories.
+			  Ruhan:-Really, is't difficult for beginner to use github.
+			  Ruhi:-No it's very easy to use github i can help you with that.
+			  Ruhan:-Yes! please.
+			  Ruhi:-First go to the github website.
+			        ->Install git in your system.
+					->Create your github account on github  website.
+					->Create your github repository.
+					->Go to your local system->open your project folder
+                    ->Right click->open git bash(git bash like a terminal)
+                    ->Run "git init" command in git bash to create a git repository.
+                    ->Run "git add . or git add --a" command to track your files. 
+                    ->Run "git commit -m "with meaningfully msg" ".					
+                    ->Run "git status" command to check your git status if your status is clean then.
+					->Run "git remote add origin 'paste your github repository url here.'"
+					->Run "git remote" to check your remote.
+					->Run "git push -u origin master" your all file will be push on your github repository.
+					->Run "git pull origin master" if you want to retrieve your file then use pull command.
+			 
+					
+			  
+			  
+			  
+			  
+			  
+			  Github is a life savior for every programmer isn't?😇 
+         
+ Ruhi :-Few days back I met my friend and he was upset.I asked him why are you upset ?😕 
+you can share your problem with me😊
+ 
+Ruhan :-Hey Ruhi! I was working on my project from a couple of months but my few files got corrupted and i can't run my project.
+ 
+Ruhi:- Haven't you made the backup of your project?
+ 
+Ruhan:-😅No...
+ 
+Ruhi:-Why are you not using github?
+
+Ruhan:-🤔Github?
+ 
+Ruhi:-Yes,Git is a distributed version control system that let's you manage and keep track of your source code history. 
+Github is a cloud-based hosting service that let's you manage git repositories.
+
+Ruhan:-Really, is it difficult for beginner to use github?
+
+Ruhi:-No,it's very easy to use github i can help you with that.
+ 
+Ruhan:-Yes! please😇
+
+Ruhi:-First go to the github website. 
+              ->Install git in your system. 
+          ->Create your github account on github  website. 
+          ->Create your github repository. 
+          ->Go to your local system->open your project folder 
+                    ->Right click->open git bash(git bash like a terminal) 
+                    ->Run "git init" command in git bash to create a git repository. 
+                    ->Run "git add . or git add --a" command to track your files.  
+                    ->Run "git commit -m "with meaningfully msg" ".           
+                    ->Run "git status" command to check your git status if your status is clean then. 
+          ->Run "git remote add origin 'paste your github repository url here.'" 
+          ->Run "git remote" to check your remote. 
+          ->Run "git push -u origin master" your all file will be push on your github repository. 
+          ->Run "git pull origin master" if you want to retrieve your file then use pull command.
+			  
+Ruhan:-Ohh really github is a life savior for programmers thanks ruhi for the help.
+
+			  
